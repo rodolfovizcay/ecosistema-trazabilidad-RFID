@@ -3,9 +3,12 @@ Ecosistema de Trazabilidad Ganadera RFID
 Este repositorio centraliza el desarrollo del sistema integral de gestión y trazabilidad individual de ganado mediante tecnología RFID (134.2 kHz). El ecosistema está diseñado para operar en entornos rurales con conectividad limitada, priorizando la portabilidad y la eficiencia operativa en la manga.
 Estructura del Proyecto
 
-El repositorio utiliza una arquitectura de "Monorepo" para agrupar los dos subsistemas principales, permitiendo una gestión unificada del ciclo de vida del software:
-Plaintext
 
+## Estructura del Proyecto
+
+El repositorio utiliza una arquitectura de "Monorepo" para agrupar los dos subsistemas principales, permitiendo una gestión unificada del ciclo de vida del software:
+
+```text
 Gestion-Ganadera-RFID/
 ├── README.md                   # Documentación principal del ecosistema
 ├── .gitignore                  # Exclusiones de Git para IntelliJ y Android Studio
