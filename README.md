@@ -46,6 +46,6 @@ Guía de Apertura para Desarrolladores
 
 Para evitar conflictos entre las configuraciones de los entornos de desarrollo, siga estas instrucciones:
 
-    Para trabajar en la App Móvil: Ejecute Android Studio y seleccione la opción "Abrir", apuntando directamente a la subcarpeta Modulo-Movil-Android.
+Para trabajar en la App Móvil: Ejecute Android Studio y seleccione la opción "Abrir", apuntando directamente a la subcarpeta Modulo-Movil-Android.
 
-    Para trabajar en el Sistema de PC: Ejecute IntelliJ IDEA y seleccione "Abrir", apuntando directamente a la subcarpeta Modulo-Escritorio-PC.
+Para trabajar en el Sistema de PC: Ejecute IntelliJ IDEA y seleccione "Abrir", apuntando directamente a la subcarpeta Modulo-Escritorio-PC.
