@@ -23,6 +23,7 @@ Gestion-Ganadera-RFID/
     ├── resources/              # Interfaces gráficas (FXML) y estilos (CSS)
     ├── pom.xml                 # Configuración de Maven / Dependencias JavaFX
     └── base_datos/             # Directorio para el archivo maestro de SQLite
+```
 
 Descripción de los Subsistemas
 1. Módulo Móvil (Bastón RFID)
